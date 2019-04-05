@@ -1,4 +1,4 @@
-""" My great add module. """
+""" My great mathematical operations module. """
 
 
 def add(x, y):
